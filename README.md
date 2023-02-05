@@ -2,7 +2,7 @@
 
 Um Projeto teste com um arquivo README 😁
 
-[<img src="./tela.gif" alt="Gif da Tela">]
+[<img src="./Tela.gif" alt="Gif da Tela">]
 
 ## Tecnologias utilizadas
 
