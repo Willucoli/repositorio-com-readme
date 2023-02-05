@@ -2,7 +2,7 @@
 
 Um Projeto teste com um arquivo README 😁
 
-[<img src="./Tela.gif" alt="Gif da Tela">]
+[<img src="./Tela.gif" alt="Gif da Tela">](https://www.screentogif.com/)
 
 ## Tecnologias utilizadas
 
